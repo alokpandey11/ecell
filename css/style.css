@@ -35,6 +35,12 @@ h5,
 h6 {
     font-family: "Raleway", sans-serif;
 }
+.about-item{
+    height: 550px;
+}
+.wow{
+    margin-bottom: 50px;
+}
 
 p {
     font-family: "Open Sans", sans-serif;
