@@ -357,6 +357,25 @@ section {
     padding: 25px;
 } 
 
+.teamcard{
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+}
+.maincard{
+    box-sizing: border-box;
+    margin-top: 120px!important;
+    margin: 30px;
+    padding: 20px;
+    height: 300px!important;
+ 
+}
+.memimg{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border-radius: 50%;
+}
 
 /* Hover state */
 
