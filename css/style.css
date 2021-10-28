@@ -353,6 +353,10 @@ section {
     margin-top: 20px;
 }
 
+.portfolio-item {
+    padding: 25px;
+} 
+
 
 /* Hover state */
 
